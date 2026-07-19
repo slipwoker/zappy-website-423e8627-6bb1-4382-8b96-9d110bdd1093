@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-423e8627.zappy5.app
+https://example.com
 וובמאסטר בונה לך אתר עסקי מקצועי, מותאם אישית וממוקד תוצאות. פתרון דיגיטלי שלם שמביא לקוחות ומצמיח את העסק שלך. צור קשר עוד היום.
 
 ### שירותים
-https://-423e8627.zappy5.app/services
+https://example.com/services
 מחפש וובמאסטר לעסקים קטנים? אנו מציעים שירותי פיתוח, תחזוקה וקידום אתרים בהתאמה אישית. כל מה שהעסק שלך צריך כדי לנצח בזירה הדיגיטלית.
 
 ### אודות
-https://-423e8627.zappy5.app/about
+https://example.com/about
 וובמאסטר פרילנסר ישראל עם תשוקה לבניית אתרים שמביאים תוצאות. הכירו את האדם שיהפוך את הרעיון הדיגיטלי שלכם למציאות מנצחת וצומחת.
 
 ### צור קשר
-https://-423e8627.zappy5.app/contact
+https://example.com/contact
 מוכן להזניק את הנוכחות הדיגיטלית שלך? צור קשר עם וובמאסטר עוד היום לשיחת ייעוץ חינם וקבל הצעת מחיר משתלמת לאתר העסקי שלך.
 
 ### תודה - וובמאסטר
-https://-423e8627.zappy5.app/thank-you
+https://example.com/thank-you
 וובמאסטר - תודה - וובמאסטר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-423e8627.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-423e8627.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-423e8627.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-423e8627.zappy5.app/contact
-- Endpoint: https://-423e8627.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-423e8627.zappy5.app/sitemap.xml
-- Robots: https://-423e8627.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-423e8627.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
