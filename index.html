@@ -768,10 +768,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1248,10 +1248,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Full-bleed background image -->
   <div class="hero-bg-wrapper">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Abstract digital collage with layered browser windows, gradient mesh in vivid violet and coral, subtle grid texture, cursor trails, and paper-grain detail. The composition feels creative and tech-forward, suitable for a web design agency hero background." width="1920" height="1080" src="/assets/site-image-index-hero-image-1.webp" alt="רקע קולאז' דיגיטלי מופשט" class="hero-bg-image" decoding="async">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Abstract digital collage with layered browser windows, gradient mesh in vivid violet and coral, subtle grid texture, cursor trails, and paper-grain detail. The composition feels creative and tech-forward, suitable for a web design agency hero background." width="1920" height="1080" src="/assets/site-image-index-hero-image-1.webp" alt="רקע קולאז' דיגיטלי מופשט" class="hero-bg-image" data-hero-background="true" data-element-type="image" data-element-id="img-1784470213067-okw4wkxy8" decoding="async">
   </div>
 
   <!-- Scrim overlay for text legibility -->
@@ -1290,8 +1290,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <p class="hero-description">מאסטרטגיה ועיצוב מערכות ועד להטמעה נקייה והשקה – אנחנו מלווים אתכם בכל שלב בדרך לנוכחות דיגיטלית מנצחת</p>
       
       <div class="hero-cta-group">
-        <a href="/contact" class="hero-cta-primary">צרו קשר</a>
-        <a href="/services" class="hero-cta-secondary">השירותים שלנו</a>
+        <a href="/contact" class="hero-cta-primary" style="color: rgb(33, 26, 58) !important;">צרו קשר</a>
+        <a href="/services" class="hero-cta-secondary" data-native-element="true" data-element-id="btn-1784471136784-vceyq51pg" data-element-type="button" style="outline: none; background-color: rgb(255, 253, 248) !important; background-image: none !important; border-color: rgb(255, 253, 248) !important; color: rgb(255, 255, 255) !important;">השירותים שלנו</a>
       </div>
     </div>
   </div>
